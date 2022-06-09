@@ -1,1 +1,1 @@
-# -Covid-19-Lung-X-ray-classification
+# Covid-19-Lung-X-ray-classification
